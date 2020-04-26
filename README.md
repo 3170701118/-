@@ -1,0 +1,1 @@
+首先运行first.java文件产生五个基本文件，再通过运行main.java文件选择first.java文件产生的文件，即可运行
