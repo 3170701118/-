@@ -1,5 +1,7 @@
 package GaLi;
+
 import java.io.*;
+
 public class InitMatrix {
     /**
      *  从文件路径初始化CellMatrix对象
