@@ -12,7 +12,7 @@ import java.util.Random;
 
 /**
 
- * Ëæ»úÉú³Écase
+ * éšæœºç”Ÿæˆcase
 
  */
 
@@ -22,7 +22,7 @@ public class first {
 
     /**
 
-     * Éú³ÉÎÄ¼şÊıÁ¿
+     * ç”Ÿæˆæ–‡ä»¶æ•°é‡
 
      */
 
@@ -37,7 +37,7 @@ public class first {
 
         }
 
-        System.out.println("³É¹¦Éú³É5¸öcaseÎÄ¼ş");
+        System.out.println("æˆåŠŸç”Ÿæˆ5ä¸ªcaseæ–‡ä»¶");
 
     }
 
@@ -45,7 +45,7 @@ public class first {
 
     /**
 
-     * ´´½¨²âÊÔ°¸Àı
+     * åˆ›å»ºæµ‹è¯•æ¡ˆä¾‹
 
      */
 
@@ -63,7 +63,7 @@ public class first {
 
         int num = 300;
 
-        File file = new File(cols+"_"+rows+"_"+System.nanoTime() + ".txt");
+        File file = new File(cols + "_"+rows + "_" + System.nanoTime() + ".txt");
 
         PrintWriter writer = null;
 
@@ -77,7 +77,7 @@ public class first {
 
 
 
-            //¿ªÊ¼ÖğĞĞ³õÊ¼»¯
+            //å¼€å§‹é€è¡Œåˆå§‹åŒ–
 
             for (int y = 0; y < rows; y++) {
 
